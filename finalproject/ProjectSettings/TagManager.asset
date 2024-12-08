@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - paceka
+  - flower
+  - zonapchel
+  - zabor
+  - grabla
+  - sad
+  - leika
+  - paketic
+  - Cloth
+  - tablichka
+  - pcheli
+  - lopata
+  - krisall1
+  - krisall2
+  - krisall3
+  - krisall4
+  - krisall5
+  - krisall6
+  - krisall7
+  - krisall8
+  - krisall9
+  - krisall10
+  - paket
+  - pacetishe
+  - paketFiol
+  - paketPose
+  - mini
+  - yell
+  - grin
+  - nelsa
+  - portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
